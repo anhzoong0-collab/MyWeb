@@ -1,5 +1,12 @@
 # THIẾT KẾ WEBSITE "CÔNG NGHỆ ĐIỆN TỬ"
 
+## Giới thiệu
+
+Xin chào, tôi là **Lê Huỳnh Minh Hoàng**.
+
+Đây là website cá nhân của tôi, nơi giới thiệu về bản thân, các kiến thức và nội dung liên quan đến công nghệ điện tử. 
+Website được thiết kế với giao diện đơn giản, dễ sử dụng, giúp người xem dễ dàng theo dõi và tìm hiểu thông tin.
+
 ## 1. Mục tiêu
 - Giới thiệu về công nghệ điện tử
 - Cung cấp kiến thức và sản phẩm
