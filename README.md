@@ -88,18 +88,6 @@ Website gồm 6 trang chính:
 
 ---
 
-6. Demo giao diện
-
-"Demo" (demo.png)
-
----
-
-7. Nguồn tham khảo
-
-- https://www.w3schools.com/
-- https://getbootstrap.com/
-- https://www.agoda.com/
-
 Demo 
 
 ![tham khao](17c24806-e366-49a0-a0d7-6522d426369a.png)
