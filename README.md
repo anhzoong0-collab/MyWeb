@@ -2,7 +2,9 @@ THIẾT KẾ WEBSITE "CÁ NHÂN"
 
 Xin chào, tôi là **Lê Huỳnh Minh Hoàng**.  
 Đây là website cá nhân giới thiệu về bản thân và các nội dung liên quan đến công nghệ điện tử.
+
 Figma
+
 1. Mục tiêu
 
 - Giới thiệu bản thân và thông tin cá nhân
