@@ -14,7 +14,7 @@ Xin chào, tôi là **Lê Huỳnh Minh Hoàng**.
 
 2. Cấu trúc website (Sitemap)
 
-Website gồm 6 trang chính:
+Website gồm 5 trang chính:
 
 - Trang chủ 
 - Giới thiệu 
