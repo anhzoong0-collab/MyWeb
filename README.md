@@ -20,8 +20,7 @@ Website gồm 6 trang chính:
 - Giới thiệu 
 - Dự án 
 - Blog 
-- Liên hệ 
-- Chính sách
+- Liên hệ
 
 ---
 
