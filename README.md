@@ -91,10 +91,9 @@ Website gồm 5 trang chính:
 ---
 
 Demo 
-<img width="311" height="749" alt="a4db7be0-ccdd-46d7-bcb1-457619704e81" src="https://github.com/user-attachments/assets/efdd62ff-13fd-44e0-ae92-3f8e58145eb6" />
-<img width="321" height="750" alt="a4db7be0-ccdd-46d7-bcb1-457619704e81 (1)" src="https://github.com/user-attachments/assets/3bc25634-b648-4e67-a681-745e4ee3b9b1" />
-<img width="321" height="737" alt="a4db7be0-ccdd-46d7-bcb1-457619704e81 (2)" src="https://github.com/user-attachments/assets/6b052d23-c720-4ec2-8192-332783b1e2ff" />
-<img width="305" height="728" alt="a4db7be0-ccdd-46d7-bcb1-457619704e81 (3)" src="https://github.com/user-attachments/assets/d20063fa-f450-4e04-9b14-6df24e80d9f3" />
-<img width="336" height="736" alt="a4db7be0-ccdd-46d7-bcb1-457619704e81 (4)" src="https://github.com/user-attachments/assets/0c266d8c-c776-4783-8888-a5afa84b8b39" />
-
+<img width="865" height="450" alt="Screenshot 2026-05-13 150536" src="https://github.com/user-attachments/assets/e6359e02-0084-4b4f-bee9-e212abfa19be" />
+<img width="785" height="440" alt="Screenshot 2026-05-13 150807" src="https://github.com/user-attachments/assets/82daa23d-8bb0-4e71-a9bf-45491f0e693e" />
+<img width="794" height="457" alt="Screenshot 2026-05-13 150907" src="https://github.com/user-attachments/assets/3878c8fd-fe78-48e3-949d-fd191efb786d" />
+<img width="805" height="446" alt="Screenshot 2026-05-13 150958" src="https://github.com/user-attachments/assets/bdf05abc-6aa7-4936-a976-4007b37bc881" />
+<img width="816" height="450" alt="Screenshot 2026-05-13 151050" src="https://github.com/user-attachments/assets/2f9a1b31-1369-4b38-9287-2a9ff2b9d3f2" />
 - Công cụ thiêt kế trang ( Canvan )
