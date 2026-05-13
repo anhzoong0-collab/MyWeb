@@ -1,37 +1,126 @@
-```html
 <!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Trang chủ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h1 align="center">LÊ HUỲNH MINH HOÀNG – WEBSITE CÁ NHÂN</h1>
+<header>
 
-<table border="1" width="100%">
-  <tr align="center">
-    <td><a href="index.html">Home</a></td>
-    <td><a href="about.html">About</a></td>
-    <td><a href="projects.html">Projects</a></td>
-    <td><a href="blog.html">Blog</a></td>
-    <td><a href="contact.html">Contact</a></td>
-  </tr>
-</table>
+  <div class="logo">
+    LHMH
+  </div>
 
-<h2>Xin chào!</h2>
-<p>Mình là <b>Lê Huỳnh Minh Hoàng</b> - Web Developer</p>
+  <nav>
 
-<h3>Về mình</h3>
-<p>Đam mê lập trình và phát triển web.</p>
+    <a href="home.html">Home</a>
 
-<h3>Dự án nổi bật</h3>
-<ul>
-  <li>Project 1</li>
-  <li>Project 2</li>
-  <li>Project 3</li>
-</ul>
+    <a href="about.html">About</a>
+
+    <a href="project.html">Projects</a>
+
+    <a href="blog.html">Blog</a>
+
+    <a href="contact.html">Contact</a>
+
+  </nav>
+
+</header>
+
+<section class="home">
+
+  <div class="home-left">
+
+    <img
+      src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png"
+      class="avatar"
+    >
+
+    <h1>
+      Lê Huỳnh Minh Hoàng
+    </h1>
+
+    <h3>
+      Frontend Developer
+    </h3>
+
+    <p>
+      Thiết kế website hiện đại và responsive.
+    </p>
+
+    <div class="button-box">
+
+      <button>
+        Xem dự án
+      </button>
+
+      <button class="btn2">
+        Liên hệ
+      </button>
+
+    </div>
+
+  </div>
+
+  <div class="home-right">
+
+    <div class="card">
+
+      <h2>
+        Giới thiệu
+      </h2>
+
+      <p>
+        Tôi là lập trình viên yêu thích thiết kế giao diện.
+      </p>
+
+    </div>
+
+    <div class="card">
+
+      <h2>
+        Kỹ năng
+      </h2>
+
+      <div class="skill">
+
+        <span>HTML</span>
+
+        <div class="bar">
+          <div class="fill html"></div>
+        </div>
+
+      </div>
+
+      <div class="skill">
+
+        <span>CSS</span>
+
+        <div class="bar">
+          <div class="fill css"></div>
+        </div>
+
+      </div>
+
+      <div class="skill">
+
+        <span>JavaScript</span>
+
+        <div class="bar">
+          <div class="fill js"></div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
 
 </body>
 </html>
-```
