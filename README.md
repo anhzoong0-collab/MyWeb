@@ -95,13 +95,7 @@ Website gồm 5 trang chính:
 
 ---
 
-Demo 
-<img width="865" height="450" alt="Screenshot 2026-05-13 150536" src="https://github.com/user-attachments/assets/e6359e02-0084-4b4f-bee9-e212abfa19be" />
-<img width="785" height="440" alt="Screenshot 2026-05-13 150807" src="https://github.com/user-attachments/assets/82daa23d-8bb0-4e71-a9bf-45491f0e693e" />
-<img width="794" height="457" alt="Screenshot 2026-05-13 150907" src="https://github.com/user-attachments/assets/3878c8fd-fe78-48e3-949d-fd191efb786d" />
-<img width="805" height="446" alt="Screenshot 2026-05-13 150958" src="https://github.com/user-attachments/assets/bdf05abc-6aa7-4936-a976-4007b37bc881" />
-<img width="816" height="450" alt="Screenshot 2026-05-13 151050" src="https://github.com/user-attachments/assets/2f9a1b31-1369-4b38-9287-2a9ff2b9d3f2" />
-- Công cụ thiêt kế trang ( Canvan )
+- Công cụ thiêt kế trang ( Canva )
 
 -AI ( chat gpt ) dòng lệnh sinh ra giao diện : " Dựa vào bản vẻ hãy tạo cho tôi một bản thiết kế cá nhân "
 
