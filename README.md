@@ -36,6 +36,7 @@ Website gồm 5 trang chính:
 👉 Mục đích: tạo ấn tượng ban đầu
 
 ---
+<img width="865" height="450" alt="Screenshot 2026-05-13 150536" src="https://github.com/user-attachments/assets/e6359e02-0084-4b4f-bee9-e212abfa19be" />
 
 3.2 Trang giới thiệu
 
@@ -46,6 +47,7 @@ Website gồm 5 trang chính:
 👉 Mục đích: cung cấp thông tin cơ bản
 
 ---
+<img width="785" height="440" alt="Screenshot 2026-05-13 150807" src="https://github.com/user-attachments/assets/82daa23d-8bb0-4e71-a9bf-45491f0e693e" />
 
 3.3 Trang dự án
 
@@ -56,6 +58,7 @@ Website gồm 5 trang chính:
 👉 Mục đích: trình bày các sản phẩm cá nhân
 
 ---
+<img width="794" height="457" alt="Screenshot 2026-05-13 150907" src="https://github.com/user-attachments/assets/3878c8fd-fe78-48e3-949d-fd191efb786d" />
 
 3.4 Trang chi tiết
 
@@ -67,6 +70,7 @@ Website gồm 5 trang chính:
 👉 Mục đích: mô tả rõ từng dự án
 
 ---
+<img width="805" height="446" alt="Screenshot 2026-05-13 150958" src="https://github.com/user-attachments/assets/bdf05abc-6aa7-4936-a976-4007b37bc881" />
 
 3.5 Trang liên hệ
 
@@ -79,6 +83,7 @@ Website gồm 5 trang chính:
 👉 Mục đích: kết nối và trao đổi
 
 ---
+<img width="816" height="450" alt="Screenshot 2026-05-13 151050" src="https://github.com/user-attachments/assets/2f9a1b31-1369-4b38-9287-2a9ff2b9d3f2" />
 
 4. Giao diện (UI)
 
